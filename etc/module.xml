@@ -3,6 +3,7 @@
     <module name="Magepow_ConfigurablePreselect" setup_version="1.0.0">
         <sequence>
             <module name="Magento_ConfigurableProduct"/>
+            <module name = "Magento_Swatches"/>
         </sequence>
     </module>
 </config>

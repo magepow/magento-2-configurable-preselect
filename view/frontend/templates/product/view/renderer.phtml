@@ -1,0 +1,24 @@
+<?php 
+$helper = $this->helper('Magepow\ConfigurablePreselect\Helper\Data');
+$isEnable = $helper->getConfigModule('magepow_configurablepreselect/general/enabled'); ?>
+	<div class="swatch-opt" data-role="swatch-options">
+	
+
+<?php if($isEnable) { ?>
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-options]": {
+            "Magento_Swatches/js/swatch-renderer": {
+				"typeConfigurablePreselectedProduct":"<?php echo $helper->getConfigModule('magepow_configurablepreselect/general/type_preselected'); ?>",
+				"enabledCategoryPage":"<?php echo $helper->getConfigModule('magepow_configurablepreselect/general/enabled_categorypage'); ?>"
+            }
+        }
+    }
+</script>
+<?php } else { ?>
+	
+<?php
+return;
+ } ?>
+ </div>
+

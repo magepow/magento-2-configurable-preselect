@@ -10,6 +10,11 @@ var config = {
             'Magento_ConfigurableProduct/js/configurable': {
                 'Magepow_ConfigurablePreselect/js/configurable': true
             }
+        },
+        mixins:{
+        	'Magento_Swatches/js/swatch-renderer':{
+        		'Magepow_ConfigurablePreselect/js/swatch-renderer':true
+        	}
         }
     }
 };

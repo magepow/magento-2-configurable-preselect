@@ -52,16 +52,15 @@ php bin/magento setup:static-content:deploy -f
 
   #### 2.1. General Configuration
  Login to admin, then go to `Store -> Configuration -> Configurable Product Preselect -> General`
-    ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/print_invoice_button.png)
+    ![Image of magento admin](https://github.com/magepow/magento-2-configurable-preselect/blob/main/media/admin_configurablepreselect.png)
    In admin, we config
    * Module Enable: Select `yes`or `no` to enable/disable module
    * Configurable Preselected Section: Select 3 options for preselected section included default, highest price, lowest price
    * Enable Category page: Select `yes`or `no` to enable/disable preselect option on category page
-    ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/invoice.png)
+    
   2.2. Result
    Result of configurable preselect product as image below.
-   [![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)](https://magepow.com/magento-2-pdf-invoice-frontend.html)
-
+   [![Image of magento store front](https://github.com/magepow/magento-2-configurable-preselect/blob/main/media/frontend_result.png)
  ## Donation
 
 If this project help you reduce time to develop, you can give me a cup of coffee :) 

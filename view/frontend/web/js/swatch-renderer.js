@@ -15,7 +15,7 @@ return function(SwatchRenderer){
 
 _init: function () {
   var type = this.options.typeConfigurablePreselectedProduct;
-  console.log(type);
+  //console.log(type);
 
    
  
@@ -162,7 +162,7 @@ _init: function () {
                                          
                     $.each(selectswatch, function (index, item) {
                         var swatchOption = $(item).find('div[data-option-id="' + opt.id + '"]');
-                        console.log(swatchOption);
+                       // console.log(swatchOption);
                         if (swatchOption.length && !$(item).find('div.swatch-option').hasClass('selected')) {
                             swatchOption.trigger('click');
                         }

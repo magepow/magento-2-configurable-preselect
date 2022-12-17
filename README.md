@@ -1,7 +1,7 @@
 
 ## Magento 2 Configurable Preselect 
 
-[**Module Configurable Preselect**](https://magepow.com/magento-2-configurable-preselect.html) make it possible for customers to make an add to cart without selecting options
+[**Module Configurable Preselect**](https://demo.magepow.com/configurablepreselect) make it possible for customers to make an add to cart without selecting options
 
 ### Description
 
@@ -25,7 +25,7 @@ Configurable Preselect extension for Magento 2 helps customer to add to cart for
 
 **See more information**:
 
-- [Detail](https://magepow.com/magento-2-configurable-preselect.html)
+- [Detail](https://demo.magepow.com/configurablepreselect)
 
 - [Documentation](https://docs.alothemes.com/m2/extension/configurablepreselect/)
 

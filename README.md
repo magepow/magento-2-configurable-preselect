@@ -19,9 +19,9 @@ Configurable Preselect extension for Magento 2 helps customer to add to cart for
 
 - Suitable for all stores and languages
 
-[![Latest Stable Version](https://poser.pugx.org/magepow/configurablepreselect/v/stable)](https://packagist.org/packages/magepow/configurable-preselect)
-[![Total Downloads](https://poser.pugx.org/magepow/configurablepreselect/downloads)](https://packagist.org/packages/magepow/configurable-preselect)
-[![Daily Downloads](https://poser.pugx.org/magepow/configurablepreselect/d/daily)](https://packagist.org/packages/magepow/configurable-preselect)
+[![Latest Stable Version](https://poser.pugx.org/magepow/configurable-preselect/v/stable)](https://packagist.org/packages/magepow/configurable-preselect)
+[![Total Downloads](https://poser.pugx.org/magepow/configurable-preselect/downloads)](https://packagist.org/packages/magepow/configurable-preselect)
+[![Daily Downloads](https://poser.pugx.org/magepow/configurable-preselect/d/daily)](https://packagist.org/packages/magepow/configurable-preselect)
 
 **See more information**:
 

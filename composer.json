@@ -2,7 +2,7 @@
   "name": "magepow/configurable-preselect",
   "description": "Suggest customer selected attributes combination of products",
   "require": {
-    "magepow/community": "^1.0.0"
+    "magepow/core": "^1.0.0"
   },
   "type": "magento2-module",
   "license": [
